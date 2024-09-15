@@ -1,0 +1,8 @@
+C:\Users\bruna\source\repos\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.csproj.AssemblyReference.cache
+C:\Users\bruna\source\repos\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\source\repos\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.AssemblyInfoInputs.cache
+C:\Users\bruna\source\repos\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.AssemblyInfo.cs
+C:\Users\bruna\source\repos\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.csproj.CoreCompileInputs.cache
+C:\Users\bruna\source\repos\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bruna\source\repos\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruna\source\repos\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.sourcelink.json

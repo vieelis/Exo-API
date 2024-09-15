@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Release",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\bin\\Debug",
+  "PreviewInSolutionExplorer": false
+}
